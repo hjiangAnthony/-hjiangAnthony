@@ -12,6 +12,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+
 - Languages: Python, SQL, R, Stata
 - Cloud Platform: AWS (EC2, sagemaker), GCP (VertexAI, Dataproc)
 - Tools & Frameworks: Git, PyTorch, TensorFlow, Snowflake, PySpark, Hadoop
