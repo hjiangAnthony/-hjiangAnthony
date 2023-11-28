@@ -9,11 +9,12 @@
 <h3 align="left">Languages and Tools:</h3>
 
 - Languages: Python, SQL, R, Stata
-- Cloud Platform: AWS (EC2, sagemaker), GCP (VertexAI, Dataproc), HuggingFace
+- Cloud Platform: AWS (EC2, sagemaker), GCP (VertexAI, Dataproc)
 - Tools & Frameworks: Git, Docker, REST API, PyTorch, TensorFlow, Snowflake, PySpark, Hadoop
-
+- NLP Toolkit: NLTK, spaCy, Huggingface, Gensim, SparkNLP
+  
 <h3 align="left">Projects</h3>
-My personal projects are mostly about statistical modeling, machine learning, deep learning in Computer Vision and Natural Language Processing. Some projects are highlighted below. 
+My personal projects are mostly about statistical modeling, machine learning, deep learning in Computer Vision, and Natural Language Processing. Some projects are highlighted below. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
